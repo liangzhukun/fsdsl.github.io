@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huajia.fsdsl.cn</id>
     <title>画家·民宿</title>
-    <updated>2020-12-26T14:15:42.001Z</updated>
+    <updated>2020-12-26T14:18:46.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huajia.fsdsl.cn"/>
     <link rel="self" href="https://huajia.fsdsl.cn/atom.xml"/>
@@ -10,34 +10,4 @@
     <logo>https://huajia.fsdsl.cn/images/avatar.png</logo>
     <icon>https://huajia.fsdsl.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 画家·民宿</rights>
-    <entry>
-        <title type="html"><![CDATA[拾忆摩天轮]]></title>
-        <id>https://huajia.fsdsl.cn/FerrisWheel/</id>
-        <link href="https://huajia.fsdsl.cn/FerrisWheel/">
-        </link>
-        <updated>2020-12-26T13:53:30.000Z</updated>
-        <content type="html"><![CDATA[<p>租金好贵哦！！！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[星空]]></title>
-        <id>https://huajia.fsdsl.cn/Star/</id>
-        <link href="https://huajia.fsdsl.cn/Star/">
-        </link>
-        <updated>2020-12-26T13:50:06.000Z</updated>
-        <content type="html"><![CDATA[<p>哈哈哈，开张了</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[猫]]></title>
-        <id>https://huajia.fsdsl.cn/CAT/</id>
-        <link href="https://huajia.fsdsl.cn/CAT/">
-        </link>
-        <updated>2020-12-26T13:31:38.000Z</updated>
-        <content type="html"><![CDATA[<p>于20191001开始对外营业</p>
-<p>20201226 <strong>维修了衣柜门</strong></p>
-<figure data-type="image" tabindex="1"><img src="https://huajia.fsdsl.cn/post-images/1608990279355.jpg" alt="" loading="lazy"></figure>
-<p>🌱🌿☘️</p>
-]]></content>
-    </entry>
 </feed>
