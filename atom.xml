@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://huajia.fsdsl.cn</id>
     <title>画家·民宿</title>
-    <updated>2020-12-26T13:55:48.531Z</updated>
+    <updated>2020-12-26T14:03:25.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://huajia.fsdsl.cn"/>
     <link rel="self" href="https://huajia.fsdsl.cn/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>现实的生活正像是缠绵在一起的长长的胶卷，我们的回忆和期待只不过是选择其中的精彩图片。</subtitle>
     <logo>https://huajia.fsdsl.cn/images/avatar.png</logo>
     <icon>https://huajia.fsdsl.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, 画家·民宿</rights>
